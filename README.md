@@ -1,2 +1,2 @@
 # python-bootcamp
-python methdos
+tamrinat paython
