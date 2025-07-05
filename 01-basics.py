@@ -8,3 +8,8 @@ else:
 for i in range(1,age+1):
   print(i)
 
+name=input("enetr your name? ")
+age=int(input("enter your age? "))
+print(name)
+print(age)
+
